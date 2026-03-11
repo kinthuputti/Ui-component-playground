@@ -1,0 +1,11 @@
+.toast-style {
+  background-color: #333; 
+  color: white;
+  padding: 10px 20px;
+  border-radius: 8px; 
+  display: inline-block; 
+  margin-top: 10px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15); 
+  font-family: sans-serif;
+  font-size: 14px;
+}
